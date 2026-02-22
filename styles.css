@@ -385,3 +385,12 @@ body.dark .paycalc select{background:rgba(0,0,0,.35)}
 
 .heroMedia{margin:14px 0 18px;border-radius:22px;overflow:hidden;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.04);box-shadow:0 0 26px rgba(120,190,255,.18)}
 .heroMedia img{width:100%;height:auto;display:block}
+
+.hero-story .note{margin-top:14px}
+.hero-side .heroMedia{margin-top:0}
+
+.price-usd{font-size:.38em;font-weight:800;color:var(--muted);margin-left:6px;vertical-align:middle;white-space:nowrap}
+@media(max-width:640px){
+  .price-big{line-height:1.05}
+  .price-usd{display:block;margin:6px 0 0;font-size:.34em}
+}
