@@ -31,7 +31,7 @@ const i18n = {
     b1:"Search the room for hidden clues",
     b2:"Solve puzzles and unlock the next steps",
     b3:"A fully immersive, mentally challenging experience",
-    side_note:"Great for friends, dates, birthdays, work events — or a boring Wednesday.",
+    side_note:"Great for friends, dates, birthdays, work events — or a boring Wednesday. Think you can escape? Prove it. Book a slot and beat the room.",
     challenge_title:"Think you can escape?",
     challenge_text:"Prove it. Book a slot and beat the room.",
     details_title:"How it works",
@@ -40,10 +40,10 @@ const i18n = {
     d3_title:"Escape in 60 minutes", d3_text:"Race against time. Communicate. Think fast. Escape.",
     pricing_title:"Pricing",
     price_prebook_sub:"per person • pre-book",
-    price_min_charge:"Minimum charge: 4 people (2–3 players still pay 4×350k)",
-    price_max:"Max 8 people (8 players = 8×350k)",
-    price_deposit:"Deposit minimum: 350.000đ to hold any booking",
-    price_save:"Save 50k/person vs paying on arrival",
+    price_min_charge:"Minimum charge: 4 people (2–3 players still pay 4×350k ~ $56)",
+    price_max:"Max 8 people (8 players = 8×350k ~ $112)",
+    price_deposit:"Deposit minimum: 350.000đ (~$14) to hold any booking",
+    price_save:"Save 50k/person (~$2) vs paying on arrival",
     price_walkin_sub:"per person • pay on arrival",
     price_walkin_rule1:"No deposit • subject to availability",
     price_walkin_rule2:"Recommended: book ahead to lock your time",
@@ -57,7 +57,7 @@ const i18n = {
     booking_open:"Open booking form",
     booking_embed_toggle:"Show booking form here",
     booking_deposit_title:"Deposit (VietQR)",
-    booking_deposit_text:"Minimum deposit 350.000đ to hold. Full prepay optional.",
+    booking_deposit_text:"Minimum deposit 350.000đ (~$14) to hold. Full prepay optional.",
     booking_open_vietqr:"Open VietQR",
     pay_note:"Open your banking app → Scan to pay",
     pay_name_label:"Name",
@@ -91,7 +91,7 @@ const i18n = {
     b1:"Tìm manh mối ẩn trong phòng",
     b2:"Giải đố và mở khóa từng bước",
     b3:"Trải nghiệm nhập vai, thử thách trí não",
-    side_note:"Hợp đi bạn bè, hẹn hò, sinh nhật, team building — hoặc một ngày thường nhàm chán.",
+    side_note:"Hợp đi bạn bè, hẹn hò, sinh nhật, team building — hoặc một ngày thường nhàm chán. Bạn thoát được không? Chứng minh đi. Đặt lịch và phá đảo căn phòng.",
     challenge_title:"Bạn thoát được không?",
     challenge_text:"Chứng minh đi. Đặt lịch và phá đảo căn phòng.",
     details_title:"Cách hoạt động",
@@ -102,7 +102,7 @@ const i18n = {
     price_prebook_sub:"/ người • đặt trước",
     price_min_charge:"Tính tối thiểu: 4 người (2–3 người vẫn tính 4×350k)",
     price_max:"Tối đa 8 người (8 người = 8×350k)",
-    price_deposit:"Đặt cọc tối thiểu: 350.000đ để giữ chỗ",
+    price_deposit:"Đặt cọc tối thiểu: 350.000đ (~$14) để giữ chỗ",
     price_save:"Tiết kiệm 50k/người so với thanh toán tại chỗ",
     price_walkin_sub:"/ người • thanh toán tại chỗ",
     price_walkin_rule1:"Không đặt cọc • tùy tình trạng chỗ trống",
@@ -117,7 +117,7 @@ const i18n = {
     booking_open:"Mở form đặt lịch",
     booking_embed_toggle:"Xem form ngay tại đây",
     booking_deposit_title:"Đặt cọc (VietQR)",
-    booking_deposit_text:"Đặt cọc tối thiểu 350.000đ để giữ chỗ. Có thể thanh toán đủ.",
+    booking_deposit_text:"Đặt cọc tối thiểu 350.000đ (~$14) để giữ chỗ. Có thể thanh toán đủ.",
     booking_open_vietqr:"Mở VietQR",
     pay_note:"Mở app ngân hàng → Quét để thanh toán",
     pay_name_label:"Tên",
@@ -151,7 +151,7 @@ const i18n = {
     b1:"Ищите скрытые подсказки",
     b2:"Решайте загадки и открывайте следующий шаг",
     b3:"Полное погружение и умственный вызов",
-    side_note:"Для друзей, свиданий, дней рождения, тимбилдинга — или скучной среды.",
+    side_note:"Для друзей, свиданий, дней рождения, тимбилдинга — или скучной среды. Думаете, сможете выбраться? Докажите — бронируйте слот и проходите комнату.",
     challenge_title:"Думаете, сбежите?",
     challenge_text:"Докажите. Забронируйте слот и пройдите комнату.",
     details_title:"Как это работает",
@@ -162,7 +162,7 @@ const i18n = {
     price_prebook_sub:"с человека • предбронь",
     price_min_charge:"Минимальный чек: 4 человека (2–3 всё равно 4×350k)",
     price_max:"Максимум 8 (8 человек = 8×350k)",
-    price_deposit:"Депозит минимум: 350.000đ для удержания брони",
+    price_deposit:"Депозит минимум: 350.000đ (~$14) для удержания брони",
     price_save:"Экономия 50k/чел по сравнению с оплатой на месте",
     price_walkin_sub:"с человека • на месте",
     price_walkin_rule1:"Без депозита • зависит от наличия",
@@ -177,7 +177,7 @@ const i18n = {
     booking_open:"Открыть форму брони",
     booking_embed_toggle:"Показать форму здесь",
     booking_deposit_title:"Депозит (VietQR)",
-    booking_deposit_text:"Минимум 350.000đ для удержания. Можно оплатить полностью.",
+    booking_deposit_text:"Минимум 350.000đ (~$14) для удержания. Можно оплатить полностью.",
     booking_open_vietqr:"Открыть VietQR",
     booking_step1:"Скан QR → оплатите депозит",
     booking_step2:"Отправьте скрин (Zalo/WhatsApp)",
@@ -206,7 +206,7 @@ const i18n = {
     b1:"숨은 단서를 찾아요",
     b2:"퍼즐을 풀고 다음 단계를 열어요",
     b3:"몰입감 있는 두뇌 챌린지",
-    side_note:"친구/데이트/생일/팀빌딩 — 혹은 심심한 날에도 딱!",
+    side_note:"친구/데이트/생일/팀빌딩 — 혹은 심심한 날에도 딱! 탈출할 수 있나요? 증명해 보세요. 시간 예약하고 도전!",
     challenge_title:"탈출할 수 있나요?",
     challenge_text:"증명해 보세요. 시간 예약하고 도전!",
     details_title:"어떻게 진행되나요?",
@@ -217,7 +217,7 @@ const i18n = {
     price_prebook_sub:"1인 • 사전 예약",
     price_min_charge:"최소 결제: 4명 (2–3명도 4×350k)",
     price_max:"최대 8명 (8명 = 8×350k)",
-    price_deposit:"예약금 최소 350.000đ (시간 확보)",
+    price_deposit:"예약금 최소 350.000đ (~$14, 시간 확보)",
     price_save:"현장 결제보다 1인 50k 절약",
     price_walkin_sub:"1인 • 현장 결제",
     price_walkin_rule1:"예약금 없음 • 자리 상황에 따라",
@@ -232,7 +232,7 @@ const i18n = {
     booking_open:"예약 폼 열기",
     booking_embed_toggle:"여기서 폼 보기",
     booking_deposit_title:"예약금 (VietQR)",
-    booking_deposit_text:"최소 350.000đ 예약금. 전액 결제도 가능.",
+    booking_deposit_text:"최소 350.000đ (~$14) 예약금. 전액 결제도 가능.",
     booking_open_vietqr:"VietQR 열기",
     booking_step1:"QR 스캔 → 예약금 결제",
     booking_step2:"스크린샷 전송 (Zalo/WhatsApp)",
@@ -346,13 +346,30 @@ const PRICE_ARRIVAL_PER_PERSON = 400000; // VND (cash at door)
 const PRICE_VIETQR_PREPAY_PER_PERSON = 350000; // VND
 const DEPOSIT_ONLY_VND = 350000; // VND
 const MIN_CHARGE_PLAYERS = 4;
+const USD_PER_VND = 1 / 25000;
+
+function safeNumber(n){
+  const num = Number(n);
+  return Number.isFinite(num) ? num : 0;
+}
 
 function formatVND(n){
+  const amount = safeNumber(n);
   try{
-    return new Intl.NumberFormat('vi-VN').format(n) + "đ";
+    return new Intl.NumberFormat('vi-VN').format(amount) + "đ";
   }catch(e){
-    return String(n) + "đ";
+    return String(amount) + "đ";
   }
+}
+
+function formatUSDFromVND(vnd){
+  const usd = safeNumber(vnd) * USD_PER_VND;
+  return `~$${usd.toFixed(2)}`;
+}
+
+function formatMoney(vnd){
+  const amount = safeNumber(vnd);
+  return `${formatVND(amount)} (${formatUSDFromVND(amount)})`;
 }
 
 function initPriceCalculator(){
@@ -386,18 +403,18 @@ function initPriceCalculator(){
     const v = String(sel.value || "");
 
     if (v === "deposit"){
-      prepayEl.textContent = formatVND(DEPOSIT_ONLY_VND);
-      arrivalEl.textContent = formatVND(PRICE_ARRIVAL_PER_PERSON * MIN_CHARGE_PLAYERS);
-      depEl.textContent = formatVND(DEPOSIT_ONLY_VND);
+      prepayEl.textContent = formatMoney(DEPOSIT_ONLY_VND);
+      arrivalEl.textContent = formatMoney(PRICE_ARRIVAL_PER_PERSON * MIN_CHARGE_PLAYERS);
+      depEl.textContent = formatMoney(DEPOSIT_ONLY_VND);
       if (noteEl) noteEl.textContent = `Deposit holds your slot. Final amount paid on arrival.`;
       return;
     }
 
-    const players = Math.max(0, parseInt(v,10) || 0);
+    const players = Math.max(0, safeNumber(parseInt(v,10)));
     const charged = Math.max(players, MIN_CHARGE_PLAYERS);
-    prepayEl.textContent = formatVND(PRICE_VIETQR_PREPAY_PER_PERSON * charged);
-    arrivalEl.textContent = formatVND(PRICE_ARRIVAL_PER_PERSON * charged);
-    depEl.textContent = formatVND(DEPOSIT_ONLY_VND);
+    prepayEl.textContent = formatMoney(PRICE_VIETQR_PREPAY_PER_PERSON * charged);
+    arrivalEl.textContent = formatMoney(PRICE_ARRIVAL_PER_PERSON * charged);
+    depEl.textContent = formatMoney(DEPOSIT_ONLY_VND);
     if (noteEl){
       noteEl.textContent = players < MIN_CHARGE_PLAYERS ? `Minimum charge applies (${MIN_CHARGE_PLAYERS} players). VietQR prepay is cheaper.` : `VietQR prepay is cheaper.`;
     }
